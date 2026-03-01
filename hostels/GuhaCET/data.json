@@ -1,0 +1,30 @@
+{
+  "name": "Guha Hostel",
+  "location": "Anugraha, National Highway 47, Pangappara, Chavadimukku, Thiruvananthapuram-695017, Kerala",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Double Sharing",
+  "price": "2750",
+  "distance": "450m",
+  "gender": "male",
+  "contact": {
+    "phone": "",
+    "whatsapp": ""
+  },
+  "rating": "",
+  "curfew": "No Curfew",
+  "bathroom": "Common",
+  "advance": "5000",
+  "amenities": [
+    "WiFi",
+    "Food",
+    "Study Room",
+    "Hot Water",
+    "Power Backup"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "gmap": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3966.0060381438498!2d76.9076018!3d8.551997799999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMzMnMDcuMiJOIDc2wrA1NCcyNy40IkU!5e1!3m2!1sen!2sin!4v1772387595702!5m2!1sen!2sin"
+}
