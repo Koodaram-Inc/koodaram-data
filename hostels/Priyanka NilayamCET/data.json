@@ -1,0 +1,31 @@
+{
+  "name": "Priyanka Nilayam Hostel",
+  "location": "Manvila, Ambady Nagar, Thiruvananthapuram, Kurisadi Road, Kurisadi Road Sreekariyam Kazhakuttam Road, Engg College, Thiruvananthapuram-695016, Kerala",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Double Sharing",
+  "price": "5000",
+  "distance": "120m",
+  "gender": "male",
+  "contact": {
+    "phone": "7994791133",
+    "whatsapp": "+91 79947 91133"
+  },
+  "rating": "2.3",
+  "curfew": "No Curfew",
+  "bathroom": "Common",
+  "advance": "5000",
+  "amenities": [
+    "WiFi",
+    "Parking",
+    "Food",
+    "Study Room",
+    "Hot Water",
+    "Security"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.063479612105!2d76.9045575!3d8.546477699999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bec796e01f49%3A0x410b9279cb31032c!2sPriyanka%20Nilayam%20boys%20hostel!5e1!3m2!1sen!2sin!4v1772388982821!5m2!1sen!2sin"
+}
