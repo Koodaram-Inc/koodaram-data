@@ -1,0 +1,29 @@
+{
+  "name": "Kurukshetra Hostel",
+  "location": "Opp Ashokan's Chayakada",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Double Sharing",
+  "price": "3500",
+  "distance": "450",
+  "gender": "female",
+  "contact": {
+    "phone": "",
+    "whatsapp": ""
+  },
+  "rating": "",
+  "curfew": "",
+  "bathroom": "Common",
+  "advance": "5000",
+  "amenities": [
+    "WiFi",
+    "Food",
+    "Study Room",
+    "Hot Water"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "gmap": ""
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Kalyani Hostel",
+  "location": "CRP Nagar",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Double Sharing",
+  "price": "7000",
+  "distance": "900m",
+  "gender": "female",
+  "contact": {
+    "phone": "",
+    "whatsapp": ""
+  },
+  "rating": "",
+  "curfew": "",
+  "bathroom": "Common",
+  "advance": "6000",
+  "amenities": [
+    "WiFi",
+    "Food",
+    "Study Room",
+    "Hot Water"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "gmap": ""
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Niva Hostel",
+  "location": "HW22+4FH, CRP Nagar Rd, Thiruvananthapuram, Kerala 695016",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Double Sharing",
+  "price": "6500 - 7000",
+  "distance": "850m",
+  "gender": "female",
+  "contact": {
+    "phone": "",
+    "whatsapp": ""
+  },
+  "rating": "5",
+  "curfew": "-",
+  "bathroom": "Attached",
+  "advance": "5000",
+  "amenities": [
+    "WiFi",
+    "Laundry",
+    "Food",
+    "Study Room",
+    "Hot Water",
+    "Power Backup"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.0235760345736!2d76.89866167503693!3d8.550312791493196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bf0029c2020b%3A0x1928c59646e5cc90!2sNiva%20Hostel!5e1!3m2!1sen!2sin!4v1772483405908!5m2!1sen!2sin"
+}
