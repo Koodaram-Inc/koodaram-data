@@ -1,0 +1,29 @@
+{
+  "name": "Angels Beth Homestay For ladies Hostel",
+  "location": "GWX5+452, Ambady Nagar, Amadi Nagar, Sreekaryam, Thiruvananthapuram, Kerala 695016",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Double Sharing",
+  "price": "7500-9500",
+  "distance": "400m",
+  "gender": "female",
+  "contact": {
+    "phone": "7034036717",
+    "whatsapp": "7034036717"
+  },
+  "rating": "2.8",
+  "curfew": "8pm",
+  "bathroom": "Attached",
+  "advance": "9000",
+  "amenities": [
+    "WiFi",
+    "Food",
+    "Study Room",
+    "Hot Water"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.0502185127316!2d76.9079004!3d8.547752399999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bf07c49cf44b%3A0xa0991a601e48a8a9!2sAngels%20Beth%20Homestay%20For%20ladies!5e1!3m2!1sen!2sin!4v1772484917222!5m2!1sen!2sin"
+}

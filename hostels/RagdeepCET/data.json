@@ -1,0 +1,29 @@
+{
+  "name": "Ragdeep Hostel",
+  "location": "Xylem",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Double Sharing",
+  "price": "3500",
+  "distance": "450m",
+  "gender": "female",
+  "contact": {
+    "phone": "",
+    "whatsapp": ""
+  },
+  "rating": "",
+  "curfew": "",
+  "bathroom": "Common",
+  "advance": "7000",
+  "amenities": [
+    "WiFi",
+    "Study Room",
+    "Hot Water",
+    "Power Backup"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "gmap": ""
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Gokulam PG Hostel",
+  "location": "HW25+93G, Unnamed Road, Pangappara, Thiruvananthapuram, Kerala 695581",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Double/Triple Sharing",
+  "price": "5600",
+  "distance": "550m",
+  "gender": "female",
+  "contact": {
+    "phone": "",
+    "whatsapp": ""
+  },
+  "rating": "4.8",
+  "curfew": "",
+  "bathroom": "Common",
+  "advance": "5000",
+  "amenities": [
+    "WiFi",
+    "Laundry",
+    "Study Room",
+    "Hot Water"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1624.7245122052475!2d76.9063824418634!3d8.54982244151161!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bf75e4f3b4d9%3A0x844964ebee530535!2sGokulam%20hostel%2FPG%20for%20ladies!5e1!3m2!1sen!2sin!4v1772485290978!5m2!1sen!2sin"
+}
