@@ -1,0 +1,31 @@
+{
+  "name": "Amritha Ladies Hostel Hostel",
+  "location": "Amadi Nagar Lane 2, Ambady Nagar, Amadi Nagar, Sreekaryam, Thiruvananthapuram, Kerala 695016",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Double Sharing",
+  "price": "8000",
+  "distance": "650m",
+  "gender": "female",
+  "contact": {
+    "phone": "",
+    "whatsapp": ""
+  },
+  "rating": "1.4",
+  "curfew": "",
+  "bathroom": "Attached",
+  "advance": "10000",
+  "amenities": [
+    "WiFi",
+    "Laundry",
+    "Food",
+    "Study Room",
+    "Hot Water",
+    "Security"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7932.033402115779!2d76.9037851413584!3d8.55097336596991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bfcfd1e0b771%3A0xa468bb1d0e305bb3!2sAmrutha%20Ladies%20Hostel!5e1!3m2!1sen!2sin!4v1772484320757!5m2!1sen!2sin"
+}
