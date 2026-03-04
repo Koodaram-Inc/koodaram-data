@@ -1,0 +1,33 @@
+{
+  "name": "Medicos Haven Hostel",
+  "location": "GWX9+4FQ, Junction, Sreekariyam Junction, Gowari Nagar, Sreekaryam, Thiruvananthapuram, Kerala 695017",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Double Sharing",
+  "price": "",
+  "distance": "2km",
+  "gender": "male",
+  "contact": {
+    "phone": "",
+    "whatsapp": ""
+  },
+  "rating": "5",
+  "curfew": "No Curfew",
+  "bathroom": "Attached",
+  "advance": "",
+  "amenities": [
+    "WiFi",
+    "Parking",
+    "Laundry",
+    "Food",
+    "Study Room",
+    "Hot Water",
+    "Power Backup"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg"
+  ],
+  "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.049406990809!2d76.9187457!3d8.5478304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05b900689614f7%3A0x2dff70fe211a5afa!2sMedicos%20Haven%20%7C%20Premium%20Student%20Accomodation%20for%20Men!5e1!3m2!1sen!2sin!4v1772652113253!5m2!1sen!2sin"
+}
