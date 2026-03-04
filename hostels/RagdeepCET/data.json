@@ -1,6 +1,6 @@
 {
   "name": "Ragdeep Hostel",
-  "location": "Xylem",
+  "location": "HW24+2R7, near college of engineering, Thiruvananthapuram, Kerala 695581",
   "college": "College of Engineering Trivandrum",
   "roomType": "Double Sharing",
   "price": "3500",
@@ -21,9 +21,7 @@
     "Power Backup"
   ],
   "images": [
-    "1.jpg",
-    "2.jpg",
-    "3.jpg"
+    "1.jpg"
   ],
   "gmap": ""
 }
