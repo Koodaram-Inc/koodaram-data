@@ -37,3 +37,6 @@ wheels/
 # Temporary files
 *.tmp
 *.bak
+# Generated reports
+college_count_report.csv
+college_count.py
