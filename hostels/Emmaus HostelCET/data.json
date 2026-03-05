@@ -1,0 +1,30 @@
+{
+  "name": "Emmaus Hostel Hostel",
+  "location": "Sreekariyam - Kazhakuttam Rd, Thiruvananthapuram, Kerala 695016",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Double Sharing",
+  "price": "3000-4000",
+  "distance": "550m",
+  "gender": "male",
+  "contact": {
+    "phone": "04712598931",
+    "whatsapp": ""
+  },
+  "rating": "3.7",
+  "curfew": "11PM",
+  "bathroom": "Common",
+  "advance": "",
+  "amenities": [
+    "WiFi",
+    "Food",
+    "Study Room",
+    "Hot Water"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg"
+  ],
+  "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.5154543157305!2d76.9025923!3d8.5463302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bec768c4164b%3A0x664d6c3445fe7d21!2sEmmaus%20Hostel!5e0!3m2!1sen!2sin!4v1772739724239!5m2!1sen!2sin"
+}
