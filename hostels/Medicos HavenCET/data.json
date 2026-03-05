@@ -3,7 +3,7 @@
   "location": "GWX9+4FQ, Junction, Sreekariyam Junction, Gowari Nagar, Sreekaryam, Thiruvananthapuram, Kerala 695017",
   "college": "College of Engineering Trivandrum",
   "roomType": "Double Sharing",
-  "price": "",
+  "price": "5500",
   "distance": "2km",
   "gender": "male",
   "contact": {
@@ -13,12 +13,12 @@
   "rating": "5",
   "curfew": "No Curfew",
   "bathroom": "Attached",
-  "advance": "",
+  "advance": "5000",
   "amenities": [
     "WiFi",
     "Parking",
     "Laundry",
-    "Food",
+    "No Food",
     "Study Room",
     "Hot Water",
     "Power Backup"
