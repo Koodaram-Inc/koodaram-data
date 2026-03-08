@@ -1,0 +1,27 @@
+{
+  "name": "Mehnaz Hostel Hostel",
+  "location": "Sreekrishna Residents, Ambady Nagar, Amadi Nagar, Sreekaryam, Thiruvananthapuram, Kerala 695017",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Triple Sharing",
+  "price": "6500",
+  "distance": "1km",
+  "gender": "male",
+  "contact": {
+    "phone": "9946121311",
+    "whatsapp": "919946121311"
+  },
+  "rating": "2.49",
+  "curfew": "9pm",
+  "bathroom": "Common",
+  "advance": "10000",
+  "amenities": [
+    "WiFi (Extra Charge)",
+    "Food",
+    "Study Room",
+    "Hot Water"
+  ],
+  "images": [
+    "1.jpg"
+  ],
+  "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.5077195383183!2d76.9112894!3d8.5470776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bf0163de2317%3A0x5c207c7c10c7815e!2sHOSTEL%20FOR%20BOYS%20SREEKARYAM%20TRIVANDRUM%20AND%20CET%20STUDENT%20ACCOMMODATION!5e0!3m2!1sen!2sin!4v1772979769520!5m2!1sen!2sin"
+}
