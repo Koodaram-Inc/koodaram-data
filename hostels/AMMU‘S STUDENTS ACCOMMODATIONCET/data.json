@@ -1,0 +1,30 @@
+{
+  "name": "AMMU‘S STUDENTS ACCOMMODATION Hostel",
+  "location": "Ammu Hostel\nTriveni lane 2,\nSreekaryam Kulathoor road,\nNear brother's gym\nThiruvananthapuram,Kerala \n695016",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Double Sharing",
+  "price": "8000",
+  "distance": "600m",
+  "gender": "female",
+  "contact": {
+    "phone": "9995586639",
+    "whatsapp": "9199955 86639"
+  },
+  "rating": "4",
+  "curfew": "7.30PM",
+  "bathroom": "Common",
+  "advance": "10000",
+  "amenities": [
+    "WiFi",
+    "Parking",
+    "Laundry",
+    "Food",
+    "Hot Water"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "gmap": ""
+}
