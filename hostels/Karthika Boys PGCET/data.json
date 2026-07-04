@@ -1,0 +1,30 @@
+{
+  "name": "Karthika Boys PG Hostel",
+  "location": "Thirunagar",
+  "college": "CET Trivandrum",
+  "roomType": "Double Sharing",
+  "price": "3000",
+  "distance": "400m",
+  "gender": "male",
+  "contact": {
+    "phone": "8086001153",
+    "whatsapp": "918086001153"
+  },
+  "rating": "",
+  "curfew": "No Curfew",
+  "bathroom": "",
+  "advance": "",
+  "amenities": [
+    "WiFi",
+    "Food",
+    "Study Room",
+    "Hot Water",
+    "Weekly Room Cleaning"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "gmap": ""
+}
