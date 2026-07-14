@@ -1,0 +1,28 @@
+{
+  "name": "Prabhat Mens Hostel Hostel",
+  "location": "Prabhath house, oppsit sastha temple, Karyavattom, Thiruvananthapuram, Kerala 695581",
+  "college": "University College of Engineering Karyavattom",
+  "roomType": "Double Sharing",
+  "price": "",
+  "distance": "1.3km",
+  "gender": "male",
+  "contact": {
+    "phone": "9895573621",
+    "whatsapp": "919895573621"
+  },
+  "rating": "4.5",
+  "curfew": "No Curfew",
+  "bathroom": "Common",
+  "advance": "",
+  "amenities": [
+    "WiFi",
+    "Parking",
+    "Study Room"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.3201753647404!2d76.8925708!3d8.565179899999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bf702810823f%3A0xba0f3b81c8499d4f!2sprabhath%20ladies%20and%20mens%20hostel!5e0!3m2!1sen!2sin!4v1784054377714!5m2!1sen!2sin"
+}
