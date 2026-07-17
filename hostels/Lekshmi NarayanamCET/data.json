@@ -1,0 +1,28 @@
+{
+  "name": "Lekshmi Narayanam",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Single/Double Sharing",
+  "price": "",
+  "distance": "50m",
+  "gender": "female",
+  "contact": {
+    "phone": "9446097991",
+    "whatsapp": "919446097991"
+  },
+  "rating": "5",
+  "curfew": "",
+  "bathroom": "Attached",
+  "advance": "",
+  "amenities": [
+    "WiFi",
+    "Food",
+    "Laundry",
+    "Study Room"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.5097496305425!2d76.90280247503689!3d8.546881441496456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bf00285678c9%3A0x73c706c4b165c116!2sLekshmi%20Narayanam!5e0!3m2!1sen!2sin!4v1784307590545!5m2!1sen!2sin"
+}
