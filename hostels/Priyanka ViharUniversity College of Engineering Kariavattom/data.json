@@ -1,0 +1,33 @@
+{
+  "name": "Priyanka Vihar Hostel",
+  "location": "Near Sun Aprt Karivattom Jun, Karyavattom, Thiruvananthapuram-695581, Kerala",
+  "college": "University College of Engineering Kariavattom",
+  "roomType": "Double/Triple Sharing",
+  "price": "",
+  "distance": "950m",
+  "gender": "male",
+  "contact": {
+    "phone": "7947411412",
+    "whatsapp": "917947411412"
+  },
+  "rating": "3.7",
+  "curfew": "11PM",
+  "bathroom": "Common",
+  "advance": "",
+  "amenities": [
+    "WiFi",
+    "Parking",
+    "Laundry",
+    "Food",
+    "Study Room",
+    "Hot Water"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg"
+  ],
+  "gmap": ""
+}
