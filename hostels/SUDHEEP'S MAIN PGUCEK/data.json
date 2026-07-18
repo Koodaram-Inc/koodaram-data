@@ -1,0 +1,28 @@
+{
+  "name": "SUDHEEP'S MAIN PG",
+  "college": "University College of Engineering Kariavattom",
+  "roomType": "",
+  "price": "-",
+  "distance": "2.5km",
+  "gender": "co-ed",
+  "contact": {
+    "phone": "9447111267",
+    "whatsapp": "919447111267"
+  },
+  "rating": "4.8",
+  "curfew": "11:00 PM",
+  "bathroom": "",
+  "advance": "",
+  "amenities": [
+    "WiFi",
+    "Parking",
+    "Laundry",
+    "Study Room"
+  ],
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.305752126007!2d76.89926299999999!3d8.5665705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bf93536a3bc9%3A0x427b0c317d6cc845!2sSUDHEEP&#39;S%20MAIN%20PG!5e0!3m2!1sen!2sin!4v1784402365234!5m2!1sen!2sin"
+}
