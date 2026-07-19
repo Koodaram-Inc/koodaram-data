@@ -1,0 +1,31 @@
+{
+  "name": "VANITHA MITHRAM,KSWDC WOMEN'S HOSTEL",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Double Sharing",
+  "price": "",
+  "distance": "400m",
+  "gender": "female",
+  "contact": {
+    "phone": "",
+    "whatsapp": ""
+  },
+  "rating": "4.3",
+  "curfew": "10:00 PM",
+  "bathroom": "Shared",
+  "advance": "",
+  "amenities": [
+    "WiFi",
+    "Food",
+    "Parking",
+    "Laundry",
+    "Hot Water",
+    "Study Room",
+    "CCTV",
+    "Security"
+  ],
+  "images": [
+    "1.png",
+    "2.png"
+  ],
+  "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.4966201914954!2d76.9069372!3d8.548150000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bf2b7e0c9ff3%3A0xb62a760353310ea4!2sVANITHA%20MITHRAM%2CKSWDC%20WOMEN&#39;S%20HOSTEL!5e0!3m2!1sen!2sin!4v1784482970012!5m2!1sen!2sin"
+}

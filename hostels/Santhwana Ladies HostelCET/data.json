@@ -1,0 +1,30 @@
+{
+  "name": "Santhwana Ladies Hostel",
+  "college": "College of Engineering Trivandrum",
+  "roomType": "Double Sharing",
+  "price": "",
+  "distance": "",
+  "gender": "female",
+  "contact": {
+    "phone": "9847706421",
+    "whatsapp": "919847706421"
+  },
+  "rating": "5",
+  "curfew": "10:00 PM",
+  "bathroom": "Common",
+  "advance": "",
+  "amenities": [
+    "WiFi",
+    "Food",
+    "Parking",
+    "Laundry",
+    "Study Room"
+  ],
+  "images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.4502610338436!2d76.9127908!3d8.5526277!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bfad6506aa5b%3A0xe4da4e70060c13eb!2sSanthwana%20Ladies%20Hostel!5e0!3m2!1sen!2sin!4v1784482644502!5m2!1sen!2sin"
+}
